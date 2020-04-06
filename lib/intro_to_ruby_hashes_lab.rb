@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  ages={"Mipsy"}
+  ages={"Mipsy"=> 24, "Aderon" => 80}
 end
 
 def pioneer
